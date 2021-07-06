@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "4cf613db507b8703",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6622affa8d0ec94",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021 CTFs/CyberThreatForce CTF 2021.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac7578160c1ec00b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e676df6046d8350",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a35d49e56f81c5c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6ee3f0fefa2073a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 168
+  },
+  "right": {
+    "id": "cdcbab55288e87ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "716043b96f7b6da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d69563a7008ed18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021 CTFs/CyberThreatForce CTF 2021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d6622affa8d0ec94",
+  "lastOpenFiles": [
+    "2021 CTFs/CyberThreatForce CTF 2021.md",
+    "Templates/CTF Challenge - TEMPLATE.md",
+    "Templates/CTF  - TEMPLATE.md",
+    "Templates/Vulnerable App - TEMPLATE.md",
+    "Templates/Vulnerable App Challenge - TEMPLATE.md",
+    "README.md",
+    "Templates/Untitled.md",
+    "2021 CTFs/Untitled.md",
+    "2021 CTFs.md",
+    "CTF-WRITEUPS MAIN MOC.md"
+  ]
+}
